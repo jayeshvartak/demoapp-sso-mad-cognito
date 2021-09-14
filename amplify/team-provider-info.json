@@ -1,15 +1,23 @@
 {
-  "demo": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-demoappssomadcognito-demo-183203-authRole",
-      "UnauthRoleArn": "arn:aws:iam::084585046463:role/amplify-demoappssomadcognito-demo-183203-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::084585046463:role/amplify-demoappssomadcognito-demo-183203-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-demoappssomadcognito-demo-183203-deployment",
-      "UnauthRoleName": "amplify-demoappssomadcognito-demo-183203-unauthRole",
-      "StackName": "amplify-demoappssomadcognito-demo-183203",
-      "StackId": "arn:aws:cloudformation:us-east-1:084585046463:stack/amplify-demoappssomadcognito-demo-183203/f7aa1990-155b-11ec-a890-0e090a17fc55",
-      "AmplifyAppId": "d18qnxn4a3xdqn"
+    "demo": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-demoappssomadcognito-demo-183203-authRole",
+            "UnauthRoleArn": "arn:aws:iam::084585046463:role/amplify-demoappssomadcognito-demo-183203-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::084585046463:role/amplify-demoappssomadcognito-demo-183203-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-demoappssomadcognito-demo-183203-deployment",
+            "UnauthRoleName": "amplify-demoappssomadcognito-demo-183203-unauthRole",
+            "StackName": "amplify-demoappssomadcognito-demo-183203",
+            "StackId": "arn:aws:cloudformation:us-east-1:084585046463:stack/amplify-demoappssomadcognito-demo-183203/f7aa1990-155b-11ec-a890-0e090a17fc55",
+            "AmplifyAppId": "d18qnxn4a3xdqn"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d18qnxn4a3xdqn",
+                    "type": "manual"
+                }
+            }
+        }
     }
-  }
 }
